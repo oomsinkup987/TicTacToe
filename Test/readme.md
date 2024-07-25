@@ -41,3 +41,9 @@
   7. Save and Pull
      - Save data when game finish
      - Pull history data when component is render.
+
+
+# Description
+In this project use AI for help in some process or function, this is my frist time to use React and JavaScript, Please comment and sugguest me for improve skill.
+
+## Thank you
